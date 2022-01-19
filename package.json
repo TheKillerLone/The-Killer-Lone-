@@ -1,0 +1,11 @@
+{
+  "name": "The Killer Lone",
+  "version": "3.4.1",
+  "description": "",
+  "main": "The Killer Lone.js",
+  "scripts": {
+  "start": "The Killer Lone.js},
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
